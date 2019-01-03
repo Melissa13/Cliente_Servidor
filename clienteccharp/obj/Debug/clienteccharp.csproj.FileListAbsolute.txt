@@ -1,0 +1,6 @@
+C:\Users\Melisa\Documents\Melissa\Material de interes\CodigoCsharp\servidorLaboratorio\clienteccharp\bin\Debug\clienteccharp.exe.config
+C:\Users\Melisa\Documents\Melissa\Material de interes\CodigoCsharp\servidorLaboratorio\clienteccharp\obj\Debug\clienteccharp.csprojResolveAssemblyReference.cache
+C:\Users\Melisa\Documents\Melissa\Material de interes\CodigoCsharp\servidorLaboratorio\clienteccharp\bin\Debug\clienteccharp.exe
+C:\Users\Melisa\Documents\Melissa\Material de interes\CodigoCsharp\servidorLaboratorio\clienteccharp\bin\Debug\clienteccharp.pdb
+C:\Users\Melisa\Documents\Melissa\Material de interes\CodigoCsharp\servidorLaboratorio\clienteccharp\obj\Debug\clienteccharp.exe
+C:\Users\Melisa\Documents\Melissa\Material de interes\CodigoCsharp\servidorLaboratorio\clienteccharp\obj\Debug\clienteccharp.pdb

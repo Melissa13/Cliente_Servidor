@@ -1,0 +1,6 @@
+C:\Users\Melisa\Documents\Melissa\Material de interes\CodigoCsharp\servidorLaboratorio\servidorLaboratorio\bin\Debug\servidorLaboratorio.exe.config
+C:\Users\Melisa\Documents\Melissa\Material de interes\CodigoCsharp\servidorLaboratorio\servidorLaboratorio\obj\Debug\servidorLaboratorio.csprojResolveAssemblyReference.cache
+C:\Users\Melisa\Documents\Melissa\Material de interes\CodigoCsharp\servidorLaboratorio\servidorLaboratorio\bin\Debug\servidorLaboratorio.exe
+C:\Users\Melisa\Documents\Melissa\Material de interes\CodigoCsharp\servidorLaboratorio\servidorLaboratorio\bin\Debug\servidorLaboratorio.pdb
+C:\Users\Melisa\Documents\Melissa\Material de interes\CodigoCsharp\servidorLaboratorio\servidorLaboratorio\obj\Debug\servidorLaboratorio.exe
+C:\Users\Melisa\Documents\Melissa\Material de interes\CodigoCsharp\servidorLaboratorio\servidorLaboratorio\obj\Debug\servidorLaboratorio.pdb
